@@ -1,5 +1,10 @@
-__pycache__/
 *.pyc
-.pytest_cache/
-tracker.json
 *.tmp
+.env
+.env.*
+.pytest_cache/
+.venv/
+__pycache__/
+dist/*.tmp
+node_modules/
+tracker.json
